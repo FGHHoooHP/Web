@@ -1,7 +1,6 @@
 -- NEVER web client. Controls live on the website; no in-game panel.
   local WEB_URL = "https://nevertown-production.up.railway.app"
   -- KEY belongs to your account and must match your web sign-in key.
-  local KEY = "523b76f28d4a4175507eae05251cdb64013b0f97af42bb42d8e6b7d707dc1c7c"
   local Players = game:GetService("Players")
   local HttpService = game:GetService("HttpService")
   local player = Players.LocalPlayer
